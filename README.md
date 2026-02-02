@@ -2,7 +2,7 @@
 
 A stunning, interactive portfolio website showcasing cybersecurity expertise with 3D animations, glitch effects, and modern web technologies.
 
-![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&link=https://akash-bhat.vercel.app)](https://akash-bhat.vercel.app)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge&logo=three.js)
@@ -80,6 +80,8 @@ Modify colors and theme in:
 ## 🚢 Deployment
 
 ### Vercel (Recommended)
+
+**Live Site:** [https://akash-bhat.vercel.app](https://akash-bhat.vercel.app)
 
 1. Push to GitHub
 2. Connect to Vercel
