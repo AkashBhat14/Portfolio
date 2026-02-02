@@ -11,6 +11,11 @@ export const metadata: Metadata = {
     description: "Cybersecurity practitioner specializing in threat detection, SIEM engineering, and AI automation.",
     type: "website",
   },
+  icons: {
+    icon: [
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+    ],
+  },
 };
 
 export default function RootLayout({
