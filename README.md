@@ -1,7 +1,5 @@
 # Akash Bhat - Portfolio
 
-A stunning, interactive portfolio website showcasing cybersecurity expertise with 3D animations, glitch effects, and modern web technologies.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&link=https://akash-bhat.vercel.app)](https://akash-bhat.vercel.app)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)
